@@ -1,0 +1,8 @@
+Q1: df98b434
+Q2: 3
+Q3: git pull origin main --rebase
+It fetch the remote changes made by the teammate and re apply the local commit
+Q4: The password is not protected because .gitignore only stop git from tracking the changes made to it
+Q5: git branch -d old-fix
+git push origin --delete old-fix
+
